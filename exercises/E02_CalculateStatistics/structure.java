@@ -16,7 +16,7 @@ public class structure {
     /* write helper methods here */
 
     /* eg. squared */
-    private int squared(int x) {
-        return x * x;
-    }
+    // private int squared(int x) {
+    //     return x * x;
+    // }
 }

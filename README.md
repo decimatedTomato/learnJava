@@ -1,18 +1,23 @@
 # Introduction to Java
 
-## Completed
-- Introduction to language features
-
-## Not Completed
-- Introduction to OOP
-- Introduction to data structures
-- Introduction to software design
+## Motivation
+- I know of the java programming language, I can teach you.
+- I found there is a lot of outdated and conflicting teaching around OOP, I aim to make it all more manageable.
 
 ## Prerequisites
 - Able to read english (But the README is also written in english so this is probably the case)
 - A little bit of programming know-how
 - Curiosity
-- Ability to ask follow up questions
+- Ability to ask follow up questions (to me or the internet)
+
+## Completed
+- Introduction to language features
+- Introduction to OOP principles
+
+## Not Completed
+- Introduction to data structures
+- Introduction to software design
+
 
 ## Scope
 <span style='color:#07F007'>
