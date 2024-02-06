@@ -1,0 +1,11 @@
+package exercise_solutions.E05_Stack;
+
+public interface Stack<T> {
+    public boolean isEmpty();
+    public T pop();
+    public void push(T el) throws StackOverflowError;
+
+    public int size();
+    public T peek();
+    public void reverse();
+}

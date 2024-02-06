@@ -5,6 +5,7 @@ public class StringBuilder_06 {
         StringBuilder _sb;
 
         myStringBuilder(String initial) {
+            super(initial);
             _sb = new StringBuilder(initial);
         }
 
@@ -20,7 +21,7 @@ public class StringBuilder_06 {
     } 
     
     public void start() {
-        StringBuilder sb = new StringBuilder("Azarath ");
+        myStringBuilder sb = new myStringBuilder("Azarath ");
         sb.append("Metreon ");
         sb.append("ZINTHOS!");
         System.out.println(sb.toString());

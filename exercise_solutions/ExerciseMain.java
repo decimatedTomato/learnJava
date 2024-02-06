@@ -14,6 +14,10 @@ public class ExerciseMain {
         // new exercise_solutions.E03_StringBuilder.StringBuilder_03().start();
         // new exercise_solutions.E03_StringBuilder.StringBuilder_04().start();
         // new exercise_solutions.E03_StringBuilder.StringBuilder_05().start();
-        new exercise_solutions.E03_StringBuilder.StringBuilder_06().start();
+        // new exercise_solutions.E03_StringBuilder.StringBuilder_06().start();
+        
+        // new exercise_solutions.E04_FizzBuzz.FizzBuzz_01().start();
+        // new exercise_solutions.E04_FizzBuzz.FizzBuzz_02().start();
+        // new exercise_solutions.E04_FizzBuzz.FizzBuzz_03().start();
     }
 }

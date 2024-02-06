@@ -14,10 +14,10 @@
 - Introduction to language features
 - Introduction to OOP principles
 
-## Not Completed
-- Introduction to data structures
-- Introduction to software design
-
+## TODO
+- Lectures slides for dynamic dispatch, multithreading, UI and external jars
+- Exercises 7,8, 9
+- Rename all of the exercise solutions to sensible names rather than just the order I wrote them in
 
 ## Scope
 <span style='color:#07F007'>
