@@ -6,6 +6,7 @@ import java.util.Random;
 
 class DynamicStack<T> implements Stack<T> {
     public static final int DEFAULT_CAPACITY = 64;
+    /* TODO I am curious if a deque might be more performant */
     private ArrayList<T> data;
 
     public DynamicStack(int capacity) {

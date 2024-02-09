@@ -1,15 +1,14 @@
 package exercise_solutions.E03_StringBuilder;
 
 public class StringBuilder_06 {
-    private class myStringBuilder extends AbstractStringBuilder {
+    private class myStringBuilder {
         StringBuilder _sb;
 
         myStringBuilder(String initial) {
-            super(initial);
             _sb = new StringBuilder(initial);
         }
 
-        public AbstractStringBuilder append(String val) {
+        public myStringBuilder append(String val) {
             _sb.append(val);
             return this;
         }
